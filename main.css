@@ -74,15 +74,6 @@ box-sizing: border-box;
   border-color : #ac2925;
 }
 
-@media (min-width: 770px) {
-
-.btn {
-    position: relative;
-    top: 80px;
-    left: 0;
-  }
-}
-
 /* Nav Menu*/
 
 nav {
