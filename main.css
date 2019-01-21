@@ -74,7 +74,7 @@ box-sizing: border-box;
   border-color : #ac2925;
 }
 
-@media (min-width: 770px) {
+@media (min-width: 1070px) {
 
 .btn {
     position: relative;
